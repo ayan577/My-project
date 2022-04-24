@@ -1,0 +1,82 @@
+a{
+    color: rgb(207, 145, 0);
+}
+a:hover{text-decoration: underline;}
+a:active{color: blue;}
+a:visited{color:grey;}
+body{
+    background-color: rgb(255, 251, 211);
+    
+    font-weight:bolder;
+    font-size: large;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.Episode{
+color:rgb(0, 0, 0);
+
+}
+.fi{
+    background: rgb(255, 0, 0);
+}
+.all{
+margin:auto;
+padding: 20px;
+border: 10px solid rgb(152, 155, 170);
+border-radius: 25px;
+}
+.you{
+    margin-top: 15px;
+    padding: 10px;
+    border: 10px solid rgb(152, 155, 170);
+    border-radius: 25px;
+}
+.op{background: red;
+    padding:20px 40px;
+    margin-left: -40px;
+    margin-right: 0px;
+
+border-radius: 25px;
+}
+.green{
+    background: rgb(193, 255, 193);
+}
+.centre{text-align: center;}
+
+.box{
+position: fixed;
+bottom: 30px;
+right: 30px;
+    background: rgb(4, 227, 0);
+width: 150px;
+height: 150px;
+border-radius: 50%;
+margin: 0;
+}
+.num{
+    position: fixed;
+    right: 30px;
+    bottom: 65px;
+width: auto;
+height: 50px;
+padding: 30px;
+
+}
+.num1{
+    position: fixed;
+    right: 40px;
+    bottom: 30px;
+width: auto;
+height: 60px;
+padding: 30px;
+
+}
+.num2{
+    position: fixed;
+    right: 20px;
+    bottom: 14px;
+width: auto;
+height: 50px;
+font-size: 90%;
+padding: 30px;
+
+}
